@@ -29,7 +29,7 @@ Als je op je eigen computer verder wilt gaan, of zelf een project wilt beginnen 
 te gebruiken. Zie ook de [handleiding om IntelliJ te installeren] in deze repository.
 
 De volgende onderwerpen (per week) zullen aan de orde komen:
-* Week 0 - Waarom functioneel programmeren? (26 april 2024)
+* [Week 0 - Waarom functioneel programmeren?](/Week0) (26 april 2024)
 * Week 1 - Introductie in Scala en functioneel programmeren (17 mei 2024)
 * Week 2 - Functies en types (24 mei 2024)
 * Week 3 - Conditionele expressions en pattern matching (31 mei 2024)
