@@ -50,7 +50,7 @@ Opdracht 3 - String operaties
 In de les hebben we gekeken naar `Int`, `Boolean` en `List`. Om tekst te representeren, gebruiken we een
 `String`. Je schrijft `"hello"` om een `String` te maken. Veel operaties die je op `List` kunt doen,
 kun je ook op `String` doen.
-Evalueer de volgende expressies over lijsten. Leg uit wat de expressie doet. Evalueer de expressie
+Evalueer de volgende expressies over `String`s. Leg uit wat de expressie doet. Evalueer de expressie
 vervolgens "uit je hoofd" en controleer daarna pas in Scastie of IntelliJ.
 1. `"Hello world"`
 2. `"Hello" + " " + "world"`
