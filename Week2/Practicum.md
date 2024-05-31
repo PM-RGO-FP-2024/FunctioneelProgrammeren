@@ -25,7 +25,7 @@ Opdracht 1 - functie types
 Wat is het type van de onderstaande functies?
 1. `def double(x: Int) = 2 * x`
 2. `def second[A](xs: List[A]) = xs.tail.head`
-3. `def swap[A, B](t: (A, B)) = (b, a)`
+3. `def swap[A, B](t: (A, B)) = (t._2, t._1)`
 4. `def toList[A](t: (A, A, A)) = List(t._1, t._2, t._3)`
 
 Opdracht 2 - functie aanroepen
