@@ -9,7 +9,7 @@ als je bijv. [IntelliJ] hebt geïnstalleerd op je eigen laptop.
 Opdracht 0 - Kwadraten
 ----------------------
 Schrijf een for-comprehension die een lijst van de eerste 10 kwadraten produceert:
-`List(1, 4, 9, 16, 25, 36, 49, 64, 81, 100)`
+`[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]`
 
 Opdracht 1 - Replicate
 ----------------------
