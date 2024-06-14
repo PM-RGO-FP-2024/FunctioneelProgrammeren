@@ -30,11 +30,11 @@ te gebruiken. Zie ook de [handleiding om IntelliJ te installeren] in deze reposi
 
 De volgende onderwerpen (per week) zullen aan de orde komen:
 * [Week 0 - Waarom functioneel programmeren?](/Week0) (26 april 2024)
-* Week 1 - Introductie in Scala en functioneel programmeren (17 mei 2024)
-* Week 2 - Functies en types (24 mei 2024)
-* Week 3 - Conditionele expressions en pattern matching (31 mei 2024)
-* Week 4 - List comprehensions (7 juni 2024)
-* Week 5 - Recursie (14 juni 2024)
+* [Week 1 - Introductie in Scala en functioneel programmeren](/Week1) (17 mei 2024)
+* [Week 2 - Functies en types](/Week2) (24 mei 2024)
+* [Week 3 - Conditionele expressions en pattern matching](/Week3) (31 mei 2024)
+* [Week 4 - List comprehensions](/Week4) (7 juni 2024)
+* [Week 5 - Recursie](/Week5) (14 juni 2024)
 * Week 6 - Software ontwikkeling bij Voogd&Voogd (21 juni 2024)
 
 De oplossingen van de practica lever je als tweetal in.
